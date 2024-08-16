@@ -5,8 +5,8 @@ Desenvolvedor Front-End em formação pela EBAC – Escola Britânica de Artes C
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.appapiusername=gabisantosdev&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisantosdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.appapitop-langsusername=gabisantosdev&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisantosdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
